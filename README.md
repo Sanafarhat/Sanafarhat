@@ -1,5 +1,5 @@
-<h1 align="center">Hii !, I'm Sana Farhat</h1>
-<h3 align="center">A passionate frontend developer from India. "Turning ideas into projects | AI • Web • Video Editing 🎬"</h3>
+<h1 align="center">Hii ! I'm Sana Farhat</h1>
+<h3 align="center">A passionate AI Enthusiast and Full stack developer from India. "Turning ideas into projects | AI • Web • Video Editing 🎬"</h3>
 
 - 🔭 I’m currently working on [FlashMaster - Interactive Flashcards](https://github.com/Sanafarhat/FlashMaster)
 
