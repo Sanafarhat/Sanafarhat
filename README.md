@@ -1,7 +1,7 @@
 <h1 align="center">Hii ! I'm Sana Farhat</h1>
 <h3 align="center">A passionate AI Enthusiast and Full stack developer from India. "Turning ideas into projects | AI • Web • Video Editing 🎬"</h3>
 
-- 🔭 I’m currently working on [FlashMaster - Interactive Flashcards](https://github.com/Sanafarhat/FlashMaster)
+- 🔭 I’m currently working on HackSphere - AI-Powered Internal Hackathon Ecosystem(https://github.com/Sanafarhat/HackSphere)
 
 - 🌱 I’m currently learning **Full Stack Development with React Native, AI & Cloud**
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://sanafarhat.github.io/MY_PORTFOLIO/](https://sanafarhat.github.io/MY_PORTFOLIO/)
 
-- 📝 I regularly write articles on [https://sanafarhat.github.io/Personal-Blog/](https://sanafarhat.github.io/Personal-Blog/)
+- 📝 I write articles on [https://sanafarhat.github.io/Personal-Blog/](https://sanafarhat.github.io/Personal-Blog/)
 
 - 💬 Ask me about **React, AI & Video Editing**
 
-- 📫 How to reach me **sanafarhat005@gmail.com**
+- 📫 How to reach me **farhatsana05@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o8DYOiY2xw9F2yJzspHwBgfZ1gmJs_Lu/view?usp=sharing](https://drive.google.com/file/d/1o8DYOiY2xw9F2yJzspHwBgfZ1gmJs_Lu/view?usp=sharing)
 
