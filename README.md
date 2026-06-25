@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **farhatsana05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o8DYOiY2xw9F2yJzspHwBgfZ1gmJs_Lu/view?usp=sharing](https://drive.google.com/file/d/1o8DYOiY2xw9F2yJzspHwBgfZ1gmJs_Lu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o8DYOiY2xw9F2yJzspHwBgfZ1gmJs_Lu/view?usp=sharing](https://drive.google.com/file/d/115MTdjRz1Vn-itioif1pabkQYwrRmqYg/view?usp=sharing)
 
 - ⚡ Fun fact **"I debug faster when I have snacks beside me 🍫"**
 
