@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sanafarhat.github.io/MY_PORTFOLIO/](https://sanafarhat.github.io/MY_PORTFOLIO/)
 
-- 📝 I write articles on [https://sanafarhat.github.io/Personal-Blog/](https://sanafarhat.github.io/Personal-Blog/)
+- 📝 I write articles on [https://sanafarhat.github.io/Personal-Blog/](https://sanafarhat.github.io/React-Personal_Blog/)
 
 - 💬 Ask me about **React, AI & Video Editing**
 
