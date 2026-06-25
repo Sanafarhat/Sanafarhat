@@ -1,7 +1,7 @@
 <h1 align="center">Hii ! I'm Sana Farhat</h1>
 <h3 align="center">A passionate AI Enthusiast and Full stack developer from India. "Turning ideas into projects | AI • Web • Video Editing 🎬"</h3>
 
-- 🔭 I’m currently working on HackSphere - AI-Powered Internal Hackathon Ecosystem(https://github.com/Sanafarhat/HackSphere)
+- 🔭 I’m currently working on HackSphere - AI-Powered Internal Hackathon Ecosystem(https://github.com/Sanafarhat/HackSphere-Project)
 
 - 🌱 I’m currently learning **Full Stack Development with React Native, AI & Cloud**
 
