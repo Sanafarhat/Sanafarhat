@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Smart Study Table (AI + IoT)**
 
-- 👨‍💻 All of my projects are available at [https://sanafarhat.github.io/MY_PORTFOLIO/](https://sanafarhat.github.io/MY_PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://sana-portfolio-five-ochre.vercel.app/](https://sana-portfolio-five-ochre.vercel.app/)
 
 - 📝 I write articles on [https://sanafarhat.github.io/Personal-Blog/](https://sanafarhat.github.io/React-Personal_Blog/)
 
